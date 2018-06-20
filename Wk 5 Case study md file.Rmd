@@ -1,0 +1,82 @@
+---
+title: "MSDS 6306 Wk5 Case Study"
+author: "Quincy Roundtree"
+date: "6/10/2018"
+output: html_document
+keep_md: true
+---
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#	1.	How many breweries are present in each state?
+
+```{r} 
+Beers <- read.csv("~/Desktop/SMU Classes/MSDS 6306/Week 5/CaseStudy_2_2/Beers.csv")
+
+View(Beers)
+
+Breweries <- read.csv("~/Desktop/SMU Classes/MSDS 6306/Week 5/CaseStudy_2_2/Breweries.csv")
+
+View(Breweries)
+
+library(dplyr)
+
+BrewFrame <- Breweries
+
+BeerFrame <- Beers
+
+count(BrewFrame, BrewFrame$State)
+
+brew_count <- count(BrewFrame, BrewFrame$State)
+
+colnames(brew_count) <- c("State", "Count")
+
+brew_count
+```
+
+# 2. Merge beer data with the breweries data. Print the first 6 observations and the last six observations to check the merged file. 
+
+```{r}
+brewmerge <- merge(BeerFrame,BrewFrame, by.x = "Brewery_id", by.y = "Brew_ID", all = TRUE)
+
+head(brewmerge)
+
+tail(brewmerge)
+```
+
+#	3.	Report the number of NA's in each column. 
+```{r}
+Missingdat <- sapply(brewmerge, function(x) sum(is.na(x)))
+Missingdat
+```
+
+# 4.	Compute the median alcohol content and international bitterness unit for each state. Plot a bar chart to compare. 
+```{r}
+AveABVSt <- tapply(brewmerge$ABV, INDEX=brewmerge$State, FUN=median, na.rm = TRUE)
+
+AveABVSt
+
+barplot(AveABVSt, main= "Median Alcohol Content by State" )
+
+MedIbuSt <- tapply(brewmerge$IBU, INDEX=brewmerge$State, FUN=median, na.rm = TRUE)
+
+MedIbuSt
+
+barplot(MedIbuSt, main= "Median IBU by State" )
+```
+# 5. Which state has the maximum alcoholic (ABV) beer? Which state has the most bitter (IBU) beer? 
+```{r}
+sort(AveABVSt, decreasing = TRUE)
+sort(MedIbuSt, decreasing = TRUE)
+```
+# 6.	Summary statistics for the ABV variable. 
+```{r}
+summary(AveABVSt)
+```
+# 7.    Is there an apparent relationship between the bitterness of the beer and its alcoholic content? Draw a scatter plot. 
+```{r}
+plot(x=BeerFrame$IBU, y=BeerFrame$ABV, main = "Bitterness vs ABV", xlab = "IBU", ylab = "ABV") 
+```
