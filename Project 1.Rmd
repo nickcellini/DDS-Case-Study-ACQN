@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Set working directory and get data files
 
 ```{r}
-setwd("C:\\Users\\allen\\Documents\\SMU Data Science\\MSDS6306 - Doing Data Science\\Lecture 5")
+setwd("~/Qsync/datascience/msds6306_doing_datascience/CaseStudy1")
 beers.df <- read.csv("Beers.csv", header=TRUE, sep = ",")
 breweries.df <- read.csv("Breweries.csv", header=TRUE, sep = ",")
 ```
@@ -107,4 +107,10 @@ plot(ABV, IBU, main="Alcohol vs Bitterness in Beer", xlab="Alcohol (ABV)", ylab=
 abline(lm(IBU~ABV), col="red") # regression line (IBU~ABV)
 relation <- lm(IBU~ABV)
 print(summary(relation))
+```
+
+##Creating the FrankenScore
+```{r}
+FrankenScore <- MedianIBU * MedianABV
+tail(sort(FrankenScore),3)
 ```
