@@ -14,9 +14,9 @@ Heber Nielsen                   | e: hcnielsen@mail.smu.edu   p:
 
 ## Assignments in the project: 
 
-Nick - Data cleansing, Data modification, State and City data sets
-Quincy - Market entry, problem white paper
-Heber - Market data analysis and brewery data analysis
-Allen - Executive summary, cohesion analysis
-Chris - Beer analysis, Product analysis
+Nick - Data cleansing, Data modification, State and City data sets  
+Quincy - Market entry, problem white paper  
+Heber - Market data analysis and brewery data analysis  
+Allen - Executive summary, cohesion analysis  
+Chris - Beer analysis, Product analysis  
 
