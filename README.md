@@ -11,5 +11,12 @@ Allen Crane                     | e: acrane@mail.smu.edu    p: 210.913.5072
 Nick Cellini                    | e: ncellini@smu.edu         p: 717.490.4880   
 Heber Nielsen                   | e: hcnielsen@mail.smu.edu   p:  
 
-Test Update
-June 18 - Forked repo to my account - Heber
+
+## Assignments in the project: 
+
+Nick - Data cleansing, Data modification, State and City data sets
+Quincy - Market entry, problem white paper
+Heber - Market data analysis and brewery data analysis
+Allen - Executive summary, cohesion analysis
+Chris - Beer analysis, Product analysis
+
