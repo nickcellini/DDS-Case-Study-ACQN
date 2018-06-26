@@ -7,10 +7,10 @@ output: html_document
 #This document made to keep some useful code from working on Project 1.
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-Beers <- read.csv("~/R/R Default Working Folder/6306 Group Project 1/Case Study Assignment/Beers.csv")
+Beers <- read.csv("./Beers.csv")
 str(Beers)
 plot(Beers$Beer_ID, Beers$ABV )
-Breweries <- read.csv("~/R/R Default Working Folder/6306 Group Project 1/Case Study Assignment/Breweries.csv")
+Breweries <- read.csv("./Breweries.csv")
 hist(Breweries$State)
 library("countrycode", lib.loc="~/R/win-library/3.5")
 install.packages("maps")
