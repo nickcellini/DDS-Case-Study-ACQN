@@ -16,7 +16,7 @@ Heber Nielsen                   | e: hcnielsen@mail.smu.edu   p:
 
 Nick - Data cleansing, Data modification, State and City data sets  
 Quincy - Market entry, problem white paper  
-Heber - Market data analysis and brewery data analysis  
+Heber - Market data analysis and brewery data analysis,Codebook
 Allen - Executive summary, cohesion analysis  
-Chris - Beer analysis, Product analysis , Codebook
+Chris - Beer analysis, Product analysis
 
