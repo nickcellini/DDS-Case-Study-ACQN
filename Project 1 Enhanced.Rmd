@@ -26,8 +26,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Problem Statement: Our FrankenBeer has distinct qualities that make it appealing to many demographics of beer drinkers. This indicates that a thorough analysis must be done to target receptive markets.
 ###Current Condition: Our FrankenBeer is a 12% ABV with a 33 IBU. It has tested well in the Seattle, Washington and Boulder, Colorado markets.
 ###Target Condition: Expand the FrankenBeer to three new markets.
-
-##Initial Market Research 
 ###The first phase of our work centered on our analysis of the US microbreweries by state. Of particular interest was the Alcohol and Bitterness in the different beer varieties found in each area. 
 ###Initial testing has been done in the Seattle, Washington and Boulder, Colorado markets with much success. 
 ###Colorado already has the highest ABV craft beer in the country--Lee Hill Series Vol. 5 - Belgian Style Quadrupel Ale (ABV 12.8%).
