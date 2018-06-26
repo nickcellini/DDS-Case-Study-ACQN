@@ -1,0 +1,45 @@
+Project 1
+Team FrankenBeer
+References:
+1). 2017 Craft Brewing Growth Statistics Released by the Brewers Association. https://www.craftbeer.com/editors-picks/craft-beer-growth-statistics-for-2017-released-by-the-brewers-association.
+
+2). Beer-in-hand Data Science – paulvanderlaken.com. https://paulvanderlaken.com/2017/08/21/beer-in-hand-data-science/
+
+3). beer-data-science/compile.md at master · aedobbyn/beer-data-science. https://github.com/aedobbyn/beer-data-science/blob/master/compile/compile.md
+
+4). Case01_Brewery. https://rstudio-pubs-static.s3.amazonaws.com/287872_b74e42f82c10415b95f955fc523f4a58.html
+
+5). Christensen J, Ladefoged AM, Norgaard L. Rapid determination of bitterness in beer using fluorescence spectroscopy and chemometrics. 2005. Journal of the Institute for Brewing 111(1), 2-10.
+
+6). Craft Beer Industry in the U.S. - Statistics & Facts | Statista. https://www.statista.com/topics/1806/craft-beer-in-the-us/. 
+
+7). davestroud/BeerStudy: The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries. https://github.com/davestroud/BeerStud
+
+8). Download: Zip Code Latitude Longitude City State County CSV - Gaslamp Media. https://www.gaslampmedia.com/download-zip-code-latitude-longitude-city-state-county-csv/
+
+9). https://bryandaetz.shinyapps.io/CraftBeersShiny/. 
+
+10). nickhould/craft-beers-dataset: Craft Beers & Data Science - Data Analysis of a Craft Beer Dataset. https://github.com/nickhould/craft-beers-dataset
+
+11). openbeerdb - dataset by too-root | data.world. https://data.world/too-root/openbeerdb
+
+12). OpenDataSoft — Open Beer Database. https://data.opendatasoft.com/explore/dataset/open-beer-database%40public-us/api/. 
+
+13). Profiling a Dataset of Craft Beers · Jean-Nicholas Hould. http://www.jeannicholashould.com/profiling-a-dataset-of-craft-beers.html
+
+14). R Bridge Week 3 Final Project. https://rstudio-pubs-static.s3.amazonaws.com/243603_c3fb26789ae54958ba6fa902207faddb.html
+
+15). Scraping for Craft Beers · Jean-Nicholas Hould. http://www.jeannicholashould.com/python-web-scraping-tutorial-for-craft-beers.html
+
+16). The Efficient Drinker: Complete Beer Calories and ABV for More than 200 Different Types. http://www.efficientdrinker.com/beer/complete-calories-abv.html
+
+17). The Rich Data guide to beer · Rich Data, http://rikunert.com/guide_to_beer
+
+18). too-root/openbeerdb | Workspace | data.world. https://data.world/too-root/openbeerdb/workspace/file?filename=beers.csv
+
+19). usmap: Mapping the US. https://cran.r-project.org/web/packages/usmap/vignettes/mapping.html
+
+20).  US States: Population and Ranking - EnchantedLearning.com. http://www.enchantedlearning.com/usa/states/population.shtml
+
+
+
