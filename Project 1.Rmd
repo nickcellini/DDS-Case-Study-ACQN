@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Set working directory and get data files
 
 ```{r}
-setwd("C:\\Users\\allen\\Documents\\SMU Data Science\\MSDS6306 - Doing Data Science\\Lecture 5")
-beers.df <- read.csv("Beers.csv", header=TRUE, sep = ",")
-breweries.df <- read.csv("Breweries.csv", header=TRUE, sep = ",")
+setwd("~/Qsync/datascience/msds6306_doing_datascience/DDS_CaseStudy1")
+beers.df <- read.csv("./Original_Datasets/Beers.csv", header=TRUE, sep = ",")
+breweries.df <- read.csv("./Original_Datasets/Breweries.csv", header=TRUE, sep = ",")
 ```
 
 

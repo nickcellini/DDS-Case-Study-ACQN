@@ -39,9 +39,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 setwd("~/Qsync/datascience/msds6306_doing_datascience/DDS_CaseStudy1")
-beers.df <- read.csv("./Original_Data/Beers.csv", header=TRUE, sep = ",")
-enhanced_beers.df <- read.csv("./Enhanced_Data_Sets/ennhanced_beers.csv", header=TRUE, sep = ",")
-breweries.df <- read.csv("Breweries.csv", header=TRUE, sep = ",")
+beers.df <- read.csv("./Original_Datasets/Beers.csv", header=TRUE, sep = ",")
+enhanced_beers.df <- read.csv("./Enhanced_Datasets/enhanced_beers.csv", header=TRUE, sep = ",")
+breweries.df <- read.csv("./Original_Datasets/Breweries.csv", header=TRUE, sep = ",")
 ```
 
 
