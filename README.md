@@ -13,7 +13,7 @@ Heber Nielsen                   | e: hcnielsen@mail.smu.edu   p:
 
 ## The purpose of this project was to evaluate the US craft beer market by state and create a compelling pitch based on this analysis. This can be found in the presentation "Case Study - Project 1 - Final.pptx" 
 
-## The codebook for this project lists all data files used, along with all analysis steps for the project. It can be found at "MSDS Project 1 codebook.pptx"
+## The codebook for this project lists all data files used, along with all analysis steps for the project. It can be found at "MSDS Project 1 Codebook.pdf"
 
 ## Assignments in the project: 
 
