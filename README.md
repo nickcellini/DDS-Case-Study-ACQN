@@ -15,7 +15,7 @@ Heber Nielsen                   | e: hcnielsen@mail.smu.edu   p:
 
 ## The codebook for this project lists all data files used, along with all analysis steps for the project. It can be found at "MSDS Project 1 Codebook.pdf"
 
-## A separate reference document is also listed that shows all the references used in the creation of this project. It can be found at "Team FrankenBeer References Project 1.txt"
+## A separate reference document is also listed that shows all the references used in the creation of this project. It can be found at "Team FrankenBeer Project 1 References.txt"
 
 ## Assignments in the project: 
 
