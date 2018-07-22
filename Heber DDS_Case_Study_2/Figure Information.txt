@@ -1,0 +1,21 @@
+
+PCA Analysis - Scree Plot 20 July 2018 - Parallel analysis (100 reps) suggests that the number of factors =  NA  and the number of components =  5
+
+More PCA analysis - eval of parameters using same parallel analysis approach 100 reps indicates that 3 or 4 is better, can get down to 2 or 1 but not ideal.
+
+More PCA analysis - suggests use 3 (my conclusion)
+
+Factor analysis (20 July, 21 July) testing 2, 3, or 4 factors. Four is too many. Two gives best BCI stat. Three is close to two, focused on it for now for the model. Graphics (with simple relationship, 21 July) shows variables contributing to each factor:	
+	Factor 1 (These might be summarized as a group reflecting "Employee Experience"):
+		years at Company
+		years in current role
+		years with current manager
+		years since last promotion
+	Factor 2 (These might be summarized as a group reflecting  "Employee Recognition" ):
+		Monthly income
+		Job level
+	Factor 3 (These might be summarized as a group reflecting "Working Mobility"):
+		Age
+		Total working years
+		Number of companies worked for 
+
