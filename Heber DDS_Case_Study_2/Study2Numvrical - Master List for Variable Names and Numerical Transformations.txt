@@ -1,0 +1,66 @@
+
+From Original CaseStudy2_Data The Following Changes Have Been Made in Study2n:
+
+
+1) The names of the 35 variables have been changed to single word (informative) names as follows:
+
+Age == Age
+Attrition == Attrition
+BusinessTravel == Travel
+DailyRate == Daily
+Department == Department
+DistanceFromHome == Commute
+Education == Education
+EducationField == Field
+EmployeeCount == Employee
+EmployeeNumber == ID
+EnvironmentSatisfaction == Environment
+Gender == Gender
+HourlyRate == Hourly
+JobInvolvement == Involvement
+JobLevel == Level
+JobRole == Role
+JobSatisfaction == Satisfaction
+MaritalStatus == Marital
+MonthlyIncome == Income
+MonthlyRate == Monthly
+NumCompaniesWorked == Companies
+Over18 == Adult
+OverTime == Overtime
+PercentSalaryHike == Raise
+PerformanceRating == Performance
+RelationshipSatisfaction == Relationship
+StandardHours == Hours
+StockOptionLevel == Options
+TotalWorkingYears == Career
+TrainingTimesLastYear == Training
+WorkLifeBalance == Balance
+YearsAtCompany == Seniority
+YearsInCurrentRole == Stagnation
+YearsSinceLastPromotion == Promoted
+YearsWithCurrManager == Manager
+
+ 2)  The 26 variables which were originally numeric were increased by 0.001
+
+3) The 9 variables which were originally character have been changed to numeric as follows:
+ 
+Attrition: 
+	0 = No, 1 = Yes
+Travel
+	0  =  Non-Travel, 1 = Travel_Rarely, 2 = Travel_Frequently	
+Department
+	1 = Human Resources, 2 = Research & Development, 3 = Sales
+Field
+	1 = Human Resources, 2 = Medical, 3 = Marketing, 4 = Technical Degree, 5,= Life Sciences, 6 = Other
+Gender
+	0 = Male, 1 = Female
+Role
+	1 = Sales Executive, 2 = ResearchScientist, 3 = Laboratory Technician, 4 = Manufacturing Director, 5 = Healthcare Representative,		 6 = Manager, 7 = Sales Representative, 8 = Research Director, 9 = Human Resources
+Marital
+	1 = Single, 2 = Married, 3 = Divorced
+
+ Adult
+	0 = N, 1 = Y		
+Overtime
+	0 = No, 1 = Yes
+	
