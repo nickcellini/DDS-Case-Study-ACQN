@@ -1,0 +1,23 @@
+"Study2.Age" "Study2.DailyRate" "Study2.DistanceFromHome" "Study2.Education" "Study2.EmployeeNumber" "Study2.EnvironmentSatisfaction" "Study2.HourlyRate" "Study2.JobLevel" "Study2.JobSatisfaction" "Study2.MonthlyIncome" "Study2.MonthlyRate" "Study2.NumCompaniesWorked" "Study2.PercentSalaryHike" "Study2.RelationshipSatisfaction" "Study2.StockOptionLevel" "Study2.TotalWorkingYears" "Study2.TrainingTimesLastYear" "Study2.WorkLifeBalance" "Study2.YearsAtCompany" "Study2.YearsInCurrentRole" "Study2.YearsSinceLastPromotion" "Study2.YearsWithCurrManager"
+"1" 1 0 0 0.2 0 0 0 0.5 0 0.5 0 0.3 0 0.1 0 0.7 0 0 0.3 0.2 0.2 0.2
+"2" 0 1 0 0 -0.1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"3" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"4" 0.2 0 0 1 0 0 0 0.1 0 0.1 0 0.1 0 0 0 0.1 0 0 0.1 0.1 0.1 0.1
+"5" 0 -0.1 0 0 1 0 0 0 0 0 0 0 0 -0.1 0.1 0 0 0 0 0 0 0
+"6" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"7" 0 0 0 0 0 0 1 0 -0.1 0 0 0 0 0 0.1 0 0 0 0 0 0 0
+"8" 0.5 0 0 0.1 0 0 0 1 0 1 0 0.1 0 0 0 0.8 0 0 0.5 0.4 0.4 0.4
+"9" 0 0 0 0 0 0 -0.1 0 1 0 0 -0.1 0 0 0 0 0 0 0 0 0 0
+"10" 0.5 0 0 0.1 0 0 0 1 0 1 0 0.1 0 0 0 0.8 0 0 0.5 0.4 0.3 0.3
+"11" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"12" 0.3 0 0 0.1 0 0 0 0.1 -0.1 0.1 0 1 0 0.1 0 0.2 -0.1 0 -0.1 -0.1 0 -0.1
+"13" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"14" 0.1 0 0 0 -0.1 0 0 0 0 0 0 0.1 0 1 0 0 0 0 0 0 0 0
+"15" 0 0 0 0 0.1 0 0.1 0 0 0 0 0 0 0 1 0 0 0 0 0.1 0 0
+"16" 0.7 0 0 0.1 0 0 0 0.8 0 0.8 0 0.2 0 0 0 1 0 0 0.6 0.5 0.4 0.5
+"17" 0 0 0 0 0 0 0 0 0 0 0 -0.1 0 0 0 0 1 0 0 0 0 0
+"18" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"19" 0.3 0 0 0.1 0 0 0 0.5 0 0.5 0 -0.1 0 0 0 0.6 0 0 1 0.8 0.6 0.8
+"20" 0.2 0 0 0.1 0 0 0 0.4 0 0.4 0 -0.1 0 0 0.1 0.5 0 0 0.8 1 0.5 0.7
+"21" 0.2 0 0 0.1 0 0 0 0.4 0 0.3 0 0 0 0 0 0.4 0 0 0.6 0.5 1 0.5
+"22" 0.2 0 0 0.1 0 0 0 0.4 0 0.3 0 -0.1 0 0 0 0.5 0 0 0.8 0.7 0.5 1
