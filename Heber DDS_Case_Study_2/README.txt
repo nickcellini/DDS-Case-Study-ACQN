@@ -20,3 +20,7 @@ Figures:
 
 Other:
 	- Overall, both PCA and FA indicated that 3 factors or components worked best as a model (a model built without considering any of the non-numerical variables). Besides the plots there are tables which are important for supporting and documenting the reasons for this conclusion. For now I have not put those in. I can create a markdown document of that if and when people want to see that.
+	
+	31 July -
+	I have finished coding all string variables into numerical categories. The full data set Study2n now has all 35 variables all in numerical form. This was loaded a few days ago. I also loaded Study2n which is the data of the original numerical variables (24 in all) but removal of the employee_count (because it is just "1" for everyone) and removal of one other because most of the values are the same number so that 1st and 3rd quartiles of the data are the same value. This is not good because the PCA and FA analyses require variability in the quartiles. I have also changed all variable names into shorter one word names. The old and new names are given in the notes file.
+	I also today did correlation (Spearman's) and correlation probabilities using Study2n22. The data were saved as matrix files, which I have uploaded. The graphs of these were uploaded.
